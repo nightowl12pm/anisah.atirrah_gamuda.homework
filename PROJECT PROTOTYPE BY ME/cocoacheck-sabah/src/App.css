@@ -1,0 +1,55 @@
+:root {
+  --primary: #5A3825;
+  --secondary: #2B1D16;
+  --tertiary: #D9A441;
+  --neutral-bg: #FAF6F0;
+  --card-bg: #FFFFFF;
+  --text-main: #2B1D16;
+  --text-muted: #736b65;
+  --border-color: #e6dfd5;
+}
+
+/* Menetapkan asas saiz paparan desktop */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--neutral-bg);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Layout utama side-by-side untuk desktop */
+.dashboard-layout {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Bahagian kandungan utama agar menyesuaikan ruang skrin desktop */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background-color: var(--neutral-bg);
+}
+
+.content-body {
+  padding: 24px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  max-width: 1440px; /* Mengehadkan lebar maksimum supaya selesa dipandang pada skrin besar */
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
