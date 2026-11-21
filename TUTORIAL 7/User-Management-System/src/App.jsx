@@ -126,7 +126,7 @@ import UserManagement from './components/UserManagement';
 function App() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1>My React App</h1>
+      <h1>My React App!</h1>
       <UserManagement />
     </div>
   );
