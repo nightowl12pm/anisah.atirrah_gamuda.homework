@@ -135,7 +135,7 @@ function App() {
     <div className="App">
       {/* 2. Write your UI elements using JSX */}
       <header>
-        <h1>Welcome to My Gamuda Code App</h1>
+        <h1>Welcome to My Gamuda Code App! I am learning to be a better developer./h1>
       </header>
 
       <main>
