@@ -60,7 +60,7 @@ async def main():
             print(f"Percubaan {attempt + 1} gagal: {e}")
             await asyncio.sleep(10 * (attempt + 1))
     else:
-        raise RuntimeError("Semua percubaan gagal")
+        raise RuntimeError("Semua percubaan anda gagal")
 
     # Show which tools ran, then the answer
     used = [m.name for m in result["messages"] if m.type == "tool"]
