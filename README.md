@@ -21,6 +21,20 @@ A collection of tutorial exercises and projects completed during the Gamuda trai
 | `(PHP) SISTEM PENGURUSAN ASET ICT` | ICT asset management system for Jabatan Perkhidmatan Komputer Negeri Sabah: asset registration, dashboard, data table view and officer-on-duty pages. Includes `ict_asset_db.sql` for the database. | PHP, Laravel, MySQL |
 | `PROJECT PROTOTYPE BY ME/cocoacheck-sabah` | CocoaCheck Sabah web prototype with login, dashboard, assessments, reports, staff and activity-log pages. | React, Vite, Firebase |
 | `MY SIDE PROJECT/Neuroscience` | TODO: one-line description | TODO |
+| `TUTORIAL 10/react-router-navigation` | Page navigation using React Router | React, React Router |
+| `TUTORIAL 11/react-week-4` | React exercises for week 4 | React |
+| `TUTORIAL 15/Real-Time-Clock` | Real-time clock component | React |
+| `TUTORIAL 14/Backend` | Backend with database models | Python |
+| `TUTORIAL 16/Database Development/Backend` | Database development for a backend application | Python |
+| `TUTORIAL 18/AI VIDEO ANALYTICS` | AI video analytics application | Python |
+| `TUTORIAL 19/API PART 1` | API examples with a simple HTML page | Python, HTML |
+| `TUTORIAL 21/INTRODUCTION INTO RAG` | Retrieval-Augmented Generation (RAG) and embeddings | Python |
+| `TUTORIAL 22/PDF SUMMARISER` | Upload a PDF file and summarise its content with AI | Python |
+| `TUTORIAL 23/API CALCULATOR AGENT` | AI calculator agent that uses an API | Python |
+| `TUTORIAL 24/Introduction to MCP` | Model Context Protocol (MCP) with HTTP and stdio servers, including a PostgreSQL server | Python, MCP, PostgreSQL |
+| `TUTORIAL 26/Exercise 1 (MCP)` | MCP exercise: add Tavily to `servers.py` | Python, MCP |
+| `TUTORIAL 27/Computer Vision` | Introduction to computer vision, data restoration and data manipulation | Python |
+| `TUTORIAL 28/PPE-DETECTION` | PPE detection, with images labelled in Label Studio and trained with YOLO | Python, YOLO, Label Studio |
 
 ## Tutorials
 
