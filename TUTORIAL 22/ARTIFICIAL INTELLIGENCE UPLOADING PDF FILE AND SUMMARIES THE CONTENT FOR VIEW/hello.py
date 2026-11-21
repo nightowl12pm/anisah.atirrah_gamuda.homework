@@ -9,7 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 load_dotenv()
 
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "You are a helpful assistant."),
+    ("system", "You are a helpful assistant!."),
     ("human", "{question}")
 ])
 
