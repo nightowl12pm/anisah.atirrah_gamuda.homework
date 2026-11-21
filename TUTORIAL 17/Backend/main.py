@@ -2,7 +2,7 @@ from fastapi import FastAPI, Body  # 1. Import FastAPI
 
 app = FastAPI()                    # 2. CIpta pemboleh ubah 'app' INI PENTING!
 
-BOOKS = [                          # 3. Senarai BOOKS
+BOOKS = [                          # 3. Senarai BOOKS dalam pangkalan data
     {"title": "Fourth Wing", "author": "Rebecca Yarros", "published_year": 2023},
     {"title": "On Freedom", "author": "Timothy Snyder", "published_year": 2024},
     {"title": "It Starts with Us", "author": "Colleen Hoover", "published_year": 2022},
