@@ -53,7 +53,7 @@ export default function InteractiveButton() {
         onMouseDown={handleMouseDown}
         onMouseUp={handleMouseUp}
       >
-        Click me! ({clickCount})
+        Hi, Click me! ({clickCount})
       </button>
       <p>Status: {isPressed ? 'Pressed' : isHovered ? 'Hovered' : 'Normal'}</p>
     </div>
