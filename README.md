@@ -4,7 +4,7 @@ WRITTEN AND MODIFIED BY: NUR ANISAH ATIRRAH BINTI AZIZAN.
 # Anisah Atirrah - Gamuda Homework
 
 
-A collection of tutorial exercises and projects completed during the Gamuda training programme, covering web development, databases, APIs, AI and computer vision.
+A collection of tutorial exercises and projects completed during the Gamuda training programme, covering web development, databases, APIs, AI and computer vision. This is also including some of SIDE PROJECTS as important references to describe developer's programming skills. 
 
 > **Note:** Secret files (`.env`), virtual environments (`.venv`, `venv`), `node_modules`, `vendor`, `storage` and `uploads` are intentionally not included. See [Running the projects](#running-the-projects).
 
