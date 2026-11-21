@@ -25,7 +25,7 @@ llm = ChatGoogleGenerativeAI(
 
 SYSTEM_PROMPT = (
     "You are a helpful assistant. Use your tools when they fit. "
-    "If no tool can do the job, say so. Answer in plain sentences."
+    "If no tool can do the job, just say so. Answer in plain sentences."
 )
 
 QUESTION = "Search for today's latest AI news and summarise it in 3 sentences, then give me a random number between 1 and 10."
