@@ -94,7 +94,7 @@ try {
 
     <header>
         <h1>SISTEM DIGITAL PENGURUSAN ASET ICT</h1>
-        <p>Jabatan Perkhidmatan Komputer Negeri Sabah</p>
+        <p>Jabatan Teknologi Maklumat ICT (JTMI)</p>
     </header>
 
     <div class="container">
@@ -170,7 +170,7 @@ try {
     </div>
 
     <footer>
-        &copy; 2025 Jabatan Perkhidmatan Komputer Negeri Sabah
+        &copy; 2026 Jabatan Teknologi Maklumat ICT (JTMI). Hakcipta Terpelihara.
     </footer>
 
 </body>

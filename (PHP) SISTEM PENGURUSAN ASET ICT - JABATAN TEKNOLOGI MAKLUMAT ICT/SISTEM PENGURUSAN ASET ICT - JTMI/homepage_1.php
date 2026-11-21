@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistem Pengurusan Aset ICT - JPKN</title>
+    <title>Sistem Pengurusan Aset ICT - JTMI</title>
     <!-- Importing a nice font -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <!-- Icons -->
@@ -325,7 +325,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <header>
         <h2>SELAMAT DATANG KE</h2>
         <h1>SISTEM DIGITAL PENGURUSAN ASET ICT</h1>
-        <h3>Jabatan Perkhidmatan Komputer Negeri Sabah</h3>
+        <h3>Jabatan Teknologi Maklumat ICT (JTMI)</h3>
     </header>
 
     <!-- Main Content Grid -->
@@ -333,16 +333,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         <!-- Left Sidebar: Navigation -->
         <nav class="nav-menu">
-            <a href="https://jpkn.sabah.gov.my/" class="nav-btn card">
+            <a href="www.google.com" class="nav-btn card">
                 <i class="fas fa-home"></i> Laman Utama
             </a>
-            <a href="https://api.whatsapp.com/send?phone=6088368833&text=%F0%9F%93%9E" class="nav-btn card">
+            <a href="www.google.com" class="nav-btn card">
                 <i class="fas fa-question-circle"></i> Bantuan Sistem
             </a>
-            <a href="https://amc.edu.my/government-sponsored-programme/" class="nav-btn card">
+            <a href="www.google.com" class="nav-btn card">
                 <i class="fas fa-chalkboard-teacher"></i> Latihan ICT
             </a>
-            <a href="https://jpkn.sabah.gov.my/direktori-jpkn/" class="nav-btn card">
+            <a href="www.google.com" class="nav-btn card">
                 <i class="fas fa-phone-alt"></i> Hubungi Kami
             </a>
         </nav>
@@ -382,14 +382,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <aside class="card info-card">
             <h3>Mengenai JPKN</h3>
             <div class="info-content">
-                <p>Jabatan Perkhidmatan Komputer Negeri.</p>
+                <p>Jabatan Teknologi Maklumat ICT (JTMI).</p>
                 <div class="address-box">
                     <strong>Alamat:</strong><br>
-                    Jabatan Perkhidmatan Komputer Negeri<br>
-                    Tingkat 6 & 7, Blok A<br>
-                    Menara Kinabalu Jalan UMS,<br>
-                    Teluk Likas, 88400,<br>
-                    Kota Kinabalu, SABAH.
+                    Jabatan Teknologi Maklumat ICT (JTMI)<br>
+                    Tingkat 1, Kota Kinabalu.<br>
                 </div>
             </div>
         </aside>
@@ -398,7 +395,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <!-- Footer -->
     <footer>
-        &copy; 2025 Jabatan Perkhidmatan Komputer Negeri Sabah
+        &copy; 2026 Jabatan Teknologi Maklumat ICT (JTMI)
     </footer>
 
 </body>

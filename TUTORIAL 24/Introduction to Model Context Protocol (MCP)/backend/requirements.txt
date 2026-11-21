@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 langchain
 langchain-google-genai
 langchain-mcp-adapters
 mcp
 python-dotenv
 sqlalchemy
+=======
+langchain
+langchain-google-genai
+langchain-mcp-adapters
+mcp
+python-dotenv
+sqlalchemy
+>>>>>>> e3620df5fe990f7786b7b2408cd6bba730ed2132
 psycopg[binary]

@@ -261,7 +261,7 @@ try {
     </main>
 
     <footer>
-        &copy; <?php echo date("Y"); ?> Jabatan Perkhidmatan Komputer Negeri Sabah (JPKN)
+        &copy; <?php echo date("Y"); ?> Jabatan Teknologi Maklumat ICT (JTMI)
     </footer>
 
     <!-- Image Modal (Hidden by default, pops up when image clicked) -->

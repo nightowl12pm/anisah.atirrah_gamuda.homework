@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "categories": [
     {
@@ -14,4 +15,22 @@
     "version": "1.0",
     "contributor": "Label Studio"
   }
+=======
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "helmet"
+    },
+    {
+      "id": 1,
+      "name": "vest"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+>>>>>>> e3620df5fe990f7786b7b2408cd6bba730ed2132
 }

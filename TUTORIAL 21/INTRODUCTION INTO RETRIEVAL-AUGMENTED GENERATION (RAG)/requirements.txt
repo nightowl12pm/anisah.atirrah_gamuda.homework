@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #packages and dependencies 
 langchain-core
 langchain-text-splitters
@@ -8,4 +9,16 @@ pypdf
 python-dotenv
 fastapi[standard]
 uvicorn[standard]
+=======
+#packages and dependencies 
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-mongodb
+pymongo
+pypdf
+python-dotenv
+fastapi[standard]
+uvicorn[standard]
+>>>>>>> e3620df5fe990f7786b7b2408cd6bba730ed2132
 certifi; sys_platform == "darwin"

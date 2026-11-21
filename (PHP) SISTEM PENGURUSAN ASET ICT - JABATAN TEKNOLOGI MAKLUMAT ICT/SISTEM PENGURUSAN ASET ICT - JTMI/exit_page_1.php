@@ -39,9 +39,9 @@
             align-items: center;
             overflow: hidden;
             
-            /* Background: Menara Kinabalu (JPKN HQ Building) */
-            /* Using a high-quality Wikimedia Commons image of the Sabah State Administrative Centre */
-            background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/36/KotaKinabalu_Sabah_SabahStateAdministrativeCentre-04.jpg');
+            /* Background: (JTMI HQ Building) */
+            /* Using a high-quality Wikimedia Commons image of the JTMI Administrative Centre */
+            background-image: url('www.google.com');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -183,7 +183,7 @@
 
     <!-- Footer Copyright -->
     <div class="footer-text">
-        &copy; 2025 Jabatan Perkhidmatan Komputer Negeri Sabah (JPKN)
+        &copy; 2026 Jabatan Teknologi Maklumat ICT (JTMI)
     </div>
 
 </body>

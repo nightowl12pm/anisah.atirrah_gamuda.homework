@@ -59,15 +59,15 @@ footer {
  
   <h1>SELAMAT DATANG KE</h1>
   <h1>SISTEM DIGITAL PENGURUSAN LATIHAN ICT</h1>
-  <h1>Jabatan Perkhidmatan Komputer Negeri Sabah</h1>
+  <h1>Jabatan Teknologi Maklumat ICT (JTMI)</h1>
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <a href="https://jpkn.sabah.gov.my/">Laman Utama</a>
+    <a href="www.google.com">Laman Utama</a>
     <a href="#">Bantuan Sistem</a>
     <a href="latihan_ict.php">Latihan ICT</a>
-    <a href="https://jpkn.sabah.gov.my/direktori/">Hubungi Kami</a>
+    <a href="www.google.com">Hubungi Kami</a>
   </div>
 
   <div class="main">
@@ -85,7 +85,7 @@ footer {
 
 
 <footer>
-<p>&copy; 2025 Jabatan Perkhidmatan Komputer Negeri Sabah</p>
+<p>&copy; 2026 Jabatan Teknologi Maklumat ICT (JTMI)</p>
 </footer>
 
 </body>

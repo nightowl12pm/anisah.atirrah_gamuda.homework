@@ -119,7 +119,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Company Name. All rights reserved.</p>
+        <p>&copy; 2026 Jabatan Teknologi Maklumat ICT (JTMI). All rights reserved.</p>
     </footer>
 
 </body>
