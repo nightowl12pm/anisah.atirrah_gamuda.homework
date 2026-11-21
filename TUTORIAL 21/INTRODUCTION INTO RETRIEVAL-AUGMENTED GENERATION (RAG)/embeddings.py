@@ -57,6 +57,6 @@ class PrefixedEmbeddings(Embeddings):
             f"task: search result | query: {text}"
         )
 
-# Instantiate your custom class so other files import the prefixed version
+# Instantiate your custom class so other files import the prefixed version. Take note.
 >>>>>>> e3620df5fe990f7786b7b2408cd6bba730ed2132
 embeddings = PrefixedEmbeddings()
