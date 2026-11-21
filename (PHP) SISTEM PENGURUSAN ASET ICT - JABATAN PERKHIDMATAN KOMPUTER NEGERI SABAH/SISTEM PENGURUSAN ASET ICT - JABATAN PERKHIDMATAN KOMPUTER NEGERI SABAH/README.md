@@ -1,3 +1,10 @@
+The ICT Asset Management Digital System (ICTMDS) has been chosen as deployment. It is a web-based platform that succesfully designed with adaptable and interactive features as a centralized framework (Shah et al., 2026, p. 466). This system employs a layered architecture that separates presentation, business logic, and data, enhancing maintainability, scalability, and testability (Shah et al., 2026). The system is built using three-tier architectures of Presentation Layer (Frontend), Business Logic Layer (Backend), Data Layer (Database) and Deployment (Local Deployment). Together, these features will define this system as a fully integrated full-stack web application (Shah et al., 2026, pp. 465 - 470).
+
+	Shah et al, (2026), explored that, the element of Frontend is a Presentation Layer (p.470). Which it will include, HTML5, SASS, JavaScript, CSS3, and modern JavaScript of frameworks or libraries that design for dynamic UI components and real-time interactions (Frain, 2025). In this case, the framework of CSS3 to support multi-column text blocks, and eventually it providing a more advanced layout capability for web designers. CSS3 is an advanced version of CSS which making web-based pages more attractive and take less time to create and CSS3 support responsive site (Frain, 2025). 
+    
+	Secondly, the element of Backend as a Business Logic Layer. The authors Anggraini & Susanto (2026) explored that, PHP Laravel as one of the web framework that can be deployed via LARAGON. In this project, it will be use to handling authentication, asset management logic, ticketing, and RESTful API endpoints (Green, 2023).
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
