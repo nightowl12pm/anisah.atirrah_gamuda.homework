@@ -134,7 +134,7 @@ A web prototype for managing cocoa assessments in Sabah. Staff can log in, recor
 - Activity logs
 - Rules page
 
-**Project structure**
+**Main Project structure**
 ```
 cocoacheck-sabah/
 ├── public/
