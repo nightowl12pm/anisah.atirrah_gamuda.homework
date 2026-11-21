@@ -143,7 +143,7 @@ async def auth_dependency(request: Request, credentials: HTTPAuthorizationCreden
     user_info = VALID_TOKENS[token]
     print(f"Auth middleware executed for user: {user_info['username']}")
 
-    # Return user info instead of just "authenticated"
+    # Return user info instead of just "authenticated" process
     return user_info
 
 
