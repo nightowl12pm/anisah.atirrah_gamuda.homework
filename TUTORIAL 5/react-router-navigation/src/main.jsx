@@ -6,7 +6,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter> {/* <-- 2. Balut App di dalam BrowserRouter */}
+    <BrowserRouter> {/* <-- 2. Balutan App di dalam BrowserRouter */}
       <App />
     </BrowserRouter>
   </StrictMode>,
