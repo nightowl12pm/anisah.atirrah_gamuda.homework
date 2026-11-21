@@ -1,4 +1,4 @@
-# 2. Terima input daripada pengguna dan tukar kepada nombor perpuluhan (float)
+# 2. Terima input daripada pengguna dan kemudian tukar kepada nombor perpuluhan (float)
 celsius = float(input("Enter temperature in Celsius: "))
 
 # 1. Tukar Celsius kepada Fahrenheit menggunakan formula yang diberikan
