@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 WRITTEN AND MODIFIED BY: NUR ANISAH ATIRRAH BINTI AZIZAN.
 # React + Vite
 =======
 # Anisah Atirrah - Gamuda Homework
->>>>>>> d74c7e39568e1ab3b75445101de3fc6bb5d04c14
+
 
 A collection of tutorial exercises and projects completed during the Gamuda training programme, covering web development, databases, APIs, AI and computer vision.
 
@@ -23,7 +22,7 @@ A collection of tutorial exercises and projects completed during the Gamuda trai
 
 | Project | Description | Technologies |
 |---|---|---|
-| `(PHP) SISTEM PENGURUSAN ASET ICT` | ICT asset management system for Jabatan Perkhidmatan Komputer Negeri Sabah: asset registration, dashboard, data table view and officer-on-duty pages. Includes `ict_asset_db.sql` for the database. | PHP, Laravel, MySQL |
+| `(PHP) SISTEM PENGURUSAN ASET ICT` | ICT asset management system for Jabatan Teknologi Maklumat ICT (JTMI): asset registration, dashboard, data table view and officer-on-duty pages. Includes `ict_asset_db.sql` for the database. | PHP, Laravel, MySQL |
 | `PROJECT PROTOTYPE BY ME/cocoacheck-sabah` | CocoaCheck Sabah web prototype with login, dashboard, assessments, reports, staff and activity-log pages. | React, Vite, Firebase |
 | `MY SIDE PROJECT/Neuroscience` | TODO: one-line description | TODO |
 | `TUTORIAL 10/react-router-navigation` | Page navigation using React Router | React, React Router |
