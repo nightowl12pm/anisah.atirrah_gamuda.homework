@@ -32,7 +32,7 @@ response = agent.invoke({"messages": [question]})
 
 final_message = response['messages'][-1]
 # Use .content instead of .text
-=======
+================
 import os
 from dotenv import load_dotenv
 from langchain.tools import tool
