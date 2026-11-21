@@ -173,4 +173,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Author
 
 **Anisah Atirrah**
-GitHub: [@nightowl12pm](https://github.com/nightowl12pm)
+
