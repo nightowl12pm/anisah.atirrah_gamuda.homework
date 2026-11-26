@@ -1,7 +1,7 @@
 WRITTEN AND MODIFIED BY: NUR ANISAH ATIRRAH BINTI AZIZAN.
 # React + Vite
 
-# Anisah Atirrah - Gamuda Homework
+# Nur Anisah Atirrah - Gamuda Homework
 
 
 A collection of tutorial exercises and projects completed during the Gamuda training programme, covering web development, databases, APIs, AI and computer vision. This is also including some of SIDE PROJECTS as important references to describe developer's programming skills. 
